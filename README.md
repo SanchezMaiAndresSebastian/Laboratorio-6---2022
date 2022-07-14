@@ -394,3 +394,5 @@ https://www.youtube.com/watch?v=YUdDsEPRHFo
 Floyd, T. (2007). Principios de circuitos eléctricos. México: Pearson Educacion. Serway,
 
 R. (2001). Física II. México: Pearson Educacion.
+
+A. (2021, 5 agosto). El. La fisica y quimica. Recuperado 14 de julio de 2022, de https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
