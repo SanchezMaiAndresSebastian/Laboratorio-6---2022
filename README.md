@@ -17,10 +17,9 @@ Andrés Sánchez
 
 **Específicos**
 
-- Distinguirla potencia consuida de un circuio y la potencia máxima del circuito
+- Distinguirla potencia consumida de un circuito y la potencia máxima del circuito
 - Diferenciar las partes de una herramienta eléctrica
-- Apreciar la diferencia de voltaje y corriente cuando se apaga una fuente
-- Consultar la nomenclatura de colores y valores parar las resistencias.
+- Apreciar la diferencia de voltaje y corriente cuando se cambia la resistecnia RL
 
 ### 2.	MARCO TEÓRICO
 
