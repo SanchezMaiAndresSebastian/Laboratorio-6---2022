@@ -340,6 +340,14 @@ Potencia consumida por RL = 4.7 kΩ
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/23.png)
 ###### _FIGURA 54_
 
+#### Cálculos
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/54.png)
+###### _FIGURA 55_
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/55.png)
+###### _FIGURA 56_
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/56.png)
+###### _FIGURA 57_
  
 ### 4.	RESPUESTAS A INTERROGANTES
 
@@ -356,17 +364,17 @@ Si, porque en las tablas se ve una potencia máxima que del circuito dentro de c
 #### 4.4. Grafique la curva Potencia vs RL y comente.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/58.png)
-###### _FIGURA 55_
+###### _FIGURA 58_
 
 Se encunetra una transferencia máxima de potencia debido a que estamos en un sistema cerrado, es decir que esto no es un espacio abierto en el cual se pueda dar más enrgia, y con ello se dras más energia, por ende esto tiene un pico en donde el voltaje y la corriente están en un punto optimo.
 
 #### Calcular errores de las mediciones y comentar los resultados.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/59.png)
-###### _FIGURA 56_
+###### _FIGURA 59_
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/60.png)
-###### _FIGURA 57_
+###### _FIGURA 60_
 
 Al hacer el experimento con una fuente de volatje de 9 V eso influye mucho en el porcentaje de rror que se tiene. Al comparar lo teroico con los resultados del simulador se encunetra que nos se tiene una gran errror de medición. 
 
