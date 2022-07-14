@@ -1138,39 +1138,7 @@ Se encuentran una transferencia máxima de potencia debido a que estamos en un s
 Al hacer el experimento con una fuente de voltaje de 9 V eso influye mucho en el porcentaje de error que se tiene. Al comparar lo teórico con los resultados del simulador se Encuentra que no se tiene un gran error de medición. 
 
 ### 5. VIDEOS
-https://www.youtube.com/watch?v=YUdDsEPRHFo
-
-### 6.	CONCLUSIONES
-
- - Al momento de construir el circuito se debe tener en cuenta que tiene que conectarse correctamente los cables en el positivo y negativo de todos los instrumentos eléctricos los cuales si no se hacen correctamente pueden sufrir una disminución de la vida útil.
- - El vatímetro se usa con cuatro pines el cual Dos de ellas son fijas y se conectan en serie a un circuito eléctrico, se denominan bobinas amperimétricas. Además, tiene otra móvil, también llamada «bobina voltimétrica, la cual se instala en paralelo con el circuito.
- - Cuando en un resistor se encuentra aplicado con el multímetro la medición de su corriente cambia el voltaje de los demás resistores que se tienen midiendo con las demás herramientas.
- - Siempre tener la guía del sentido para poder resolver las mallas y cambia totalmente si se apaga una fuente o no, debido a que eso genera una corriente que pasa por los componentes.
- 
-
-### 7.	BIBLIOGRAFÍA
-
-Floyd, T. (2007). Principios de circuitos eléctricos. México: Pearson Educacion. Serway,
-
-R. (2001). Física II. México: Pearson Educacion.
-
-A. (2021, 5 agosto). El. La fisica y quimica. Recuperado 14 de julio de 2022, de https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
-### 6.	CONCLUSIONES
-
- - Al momento de construir el circuito se debe tener en cuenta que tiene que conectarse correctamente los cables en el positivo y negativo de todos los instrumentos eléctricos los cuales si no se hacen correctamente pueden sufrir una disminución de la vida útil.
- - El vatímetro se usa con cuatro pines el cual Dos de ellas son fijas y se conectan en serie a un circuito eléctrico, se denominan bobinas amperimétricas. Además, tiene otra móvil, también llamada «bobina voltimétrica, la cual se instala en paralelo con el circuito.
- - Cuando en un resistor se encuentra aplicado con el multímetro la medición de su corriente cambia el voltaje de los demás resistores que se tienen midiendo con las demás herramientas.
- - Siempre tener la guía del sentido para poder resolver las mallas y cambia totalmente si se apaga una fuente o no, debido a que eso genera una corriente que pasa por los componentes.
- 
-
-### 7.	BIBLIOGRAFÍA
-
-Floyd, T. (2007). Principios de circuitos eléctricos. México: Pearson Educacion. Serway,
-
-R. (2001). Física II. México: Pearson Educacion.
-
-A. (2021, 5 agosto). El. La fisica y quimica. Recuperado 14 de julio de 2022, de https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
-
+https://youtu.be/yZiy93hiuZA
 ### 6.	CONCLUSIONES
 
  - Al momento de construir el circuito se debe tener en cuenta que tiene que conectarse correctamente los cables en el positivo y negativo de todos los instrumentos eléctricos los cuales si no se hacen correctamente pueden sufrir una disminución de la vida útil.
