@@ -43,7 +43,7 @@ Esto es esencialmente lo que se pretende en el diseño del transmisor de radio, 
 
 - Diagrama de bloques
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3.png)
 
 ###### _FIGURA 4_
 
@@ -70,157 +70,148 @@ Esto es esencialmente lo que se pretende en el diseño del transmisor de radio, 
 
 #### 3.1. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 4.1. Anote los resultados medidos.
 #### SIMULACIÓN
-Se tiene que preparar los componentes antes de la construcción del circuito
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
-###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 220 Ω 
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/4.png)
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 470 Ω 
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/5.png)
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 680 Ω
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/6.png)
 ###### _FIGURA 5_
 El Voltaje y corriente de RL = 820 Ω
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/7.png)
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 1 kΩ 
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/8.png)
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 1.5 kΩ 
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/9.png)
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 1.8 kΩ 
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/10.png)
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 2.2 kΩ
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/11.png)
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 3.9 kΩ
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/12.png)
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 4.7 kΩ 
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/13.png)
 ###### _FIGURA 5_
 
 
 
 #### MEDICIÓN
-
 Se tiene que preparar los componentes antes de la construcción del circuito
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/8.png)
-
-El Voltaje y corriente de RL = 220 Ω
-Voltaje
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
 ###### _FIGURA 5_
 
+El Voltaje y corriente de RL = 220 Ω
+Voltaje
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
+###### _FIGURA 5_
+
 Corriente
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 
 El Voltaje y corriente de RL = 470 Ω 
 Voltaje
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 Corriente
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 680 Ω
 Voltaje
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 Corriente
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 820 Ω
 Voltaje
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 Corriente
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 1 kΩ 
 Voltaje
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 Corriente
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 1.5 kΩ 
 Voltaje
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 Corriente
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 1.8 kΩ 
 Voltaje
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 Corriente
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 2.2 kΩ
 Voltaje
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 Corriente
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 3.9 kΩ
 Voltaje
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 Corriente
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 4.7 kΩ 
 Voltaje
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 Corriente
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 
@@ -233,52 +224,48 @@ Corriente
 
 Potencia consumida por RL = 220 Ω 
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 Potencia consumida por RL = 470 Ω 
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 Potencia consumida por RL = 680 Ω
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 Potencia consumida por RL = 820 Ω
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 Potencia consumida por RL = 1 kΩ 
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 Potencia consumida por RL = 1.5 kΩ 
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 Potencia consumida por RL = 1.8 kΩ 
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 Potencia consumida por RL = 2.2 kΩ
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 Potencia consumida por RL = 3.9 kΩ
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 Potencia consumida por RL = 4.7 kΩ 
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
 
 
@@ -286,6 +273,51 @@ Potencia consumida por RL = 4.7 kΩ
 
 #### 3.3. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados en la tabla 4.1. Anote los resultados medidos.
 
+Potencia consumida por RL = 220 Ω 
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
+###### _FIGURA 5_
+
+Potencia consumida por RL = 470 Ω 
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
+###### _FIGURA 5_
+
+Potencia consumida por RL = 680 Ω
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
+###### _FIGURA 5_
+
+Potencia consumida por RL = 820 Ω
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
+###### _FIGURA 5_
+
+Potencia consumida por RL = 1 kΩ 
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
+###### _FIGURA 5_
+
+Potencia consumida por RL = 1.5 kΩ 
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
+###### _FIGURA 5_
+
+Potencia consumida por RL = 1.8 kΩ 
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
+###### _FIGURA 5_
+
+Potencia consumida por RL = 2.2 kΩ
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
+###### _FIGURA 5_
+
+Potencia consumida por RL = 3.9 kΩ
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
+###### _FIGURA 5_
+
+Potencia consumida por RL = 4.7 kΩ 
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
+###### _FIGURA 5_
 
  
 ### 4.	RESPUESTAS A INTERROGANTES
