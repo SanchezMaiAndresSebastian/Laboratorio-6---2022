@@ -22,7 +22,11 @@ Andrés Sánchez
 - Apreciar la diferencia de voltaje y corriente cuando se apaga una fuente
 - Consultar la nomenclatura de colores y valores parar las resistencias.
 
-### 2.	MARCO TEÓRICO 
+### 2.	MARCO TEÓRICO
+
+El teorema de transferencia de potencia máxima no es tanto un medio de análisis como una ayuda para el diseño del sistema. En pocas palabras, la cantidad máxima de energía se disipará por una resistencia de carga cuando esa resistencia de carga sea igual a la resistencia de Thevenin / Norton de la red que suministra la energía. Si la resistencia de carga es menor o mayor que la resistencia Thevenin / Norton de la red de origen, su potencia disipada será menor que la máxima.
+
+Esto es esencialmente lo que se pretende en el diseño del transmisor de radio, donde la «impedancia» de la antena o la línea de transmisión se corresponde con la potencia final amplificador «impedancia» para obtener la máxima potencia de radiofrecuencia. La impedancia, la oposición general a la corriente CA y CC, es muy similar a la resistencia y debe ser igual entre la fuente y la carga para que se transfiera la mayor cantidad de energía a la carga. Una impedancia de carga demasiado alta dará como resultado una salida de baja potencia. Una impedancia de carga demasiado baja no solo dará como resultado una salida de baja potencia, sino que posiblemente se sobrecalentará el amplificador debido a la potencia disipada en su impedancia interna (Thevenin o Norton).
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea-4-/blob/main/Fotos/3.png)
 
 ###### _FIGURA 1_
