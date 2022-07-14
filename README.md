@@ -197,6 +197,7 @@ Corriente
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 3.9 kΩ
+
 Voltaje
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
@@ -206,6 +207,7 @@ Corriente
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 4.7 kΩ 
+
 Voltaje
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 ###### _FIGURA 5_
