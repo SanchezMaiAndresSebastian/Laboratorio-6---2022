@@ -12,12 +12,12 @@ Andrés Sánchez
 
 **Principales**
 
- - Experimentar el teorema de Thévenin
+ - Experimentar la Máxima transferencia de energía
  - Construir un circuito.
 
 **Específicos**
 
-- Distinguir entre lo que es corriente y voltaje
+- Distinguirla potencia consuida de un circuio y la potencia máxima del circuito
 - Diferenciar las partes de una herramienta eléctrica
 - Apreciar la diferencia de voltaje y corriente cuando se apaga una fuente
 - Consultar la nomenclatura de colores y valores parar las resistencias.
