@@ -105,13 +105,15 @@ Se tiene que preparar los componentes antes de la construcción del circuito
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/58.png)
 
+Se encunetra una transferencia máxima de potencia debido a que estamos en un sistema cerrado, es decir que esto no es un espacio abierto en el cual se pueda dar más enrgia, y con ello se dras más energia, por ende esto tiene un pico en donde el voltaje y la corriente están en un punto optimo.
+
 #### Calcular errores de las mediciones y comentar los resultados.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/59.png)
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/60.png)
 
-En esto se concluye que al hacer el experimento con una fuente de volatje de 9 V eso influye mucho en el porcentaje de rror que se tiene. Al comparar lo teroico con los resultados del simulador se encunetra que nos se tiene una gran errror de medición. 
+Al hacer el experimento con una fuente de volatje de 9 V eso influye mucho en el porcentaje de rror que se tiene. Al comparar lo teroico con los resultados del simulador se encunetra que nos se tiene una gran errror de medición. 
 
 ### 5. VIDEOS
 https://www.youtube.com/watch?v=YUdDsEPRHFo
