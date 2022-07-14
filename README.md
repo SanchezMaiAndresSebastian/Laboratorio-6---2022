@@ -189,7 +189,7 @@ Voltaje
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/39.png)
 ###### _FIGURA 5_
 
-Corriente}
+Corriente
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/40.png)
 ###### _FIGURA 5_
@@ -296,48 +296,48 @@ Potencia consumida por RL = 4.7 kΩ
 
 Potencia consumida por RL = 220 Ω 
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/14.png)
 ###### _FIGURA 5_
 
 Potencia consumida por RL = 470 Ω 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/15.png)
 ###### _FIGURA 5_
 
 Potencia consumida por RL = 680 Ω
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/16.png)
 ###### _FIGURA 5_
 
 Potencia consumida por RL = 820 Ω
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/17.png)
 ###### _FIGURA 5_
 
 Potencia consumida por RL = 1 kΩ 
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/18.png)
 ###### _FIGURA 5_
 
 Potencia consumida por RL = 1.5 kΩ 
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/19.png)
 ###### _FIGURA 5_
 
 Potencia consumida por RL = 1.8 kΩ 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/20.png)
 ###### _FIGURA 5_
 
 Potencia consumida por RL = 2.2 kΩ
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/21.png)
 ###### _FIGURA 5_
 
 Potencia consumida por RL = 3.9 kΩ
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/22.png)
 ###### _FIGURA 5_
 
 Potencia consumida por RL = 4.7 kΩ 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/23.png)
 ###### _FIGURA 5_
 
  
