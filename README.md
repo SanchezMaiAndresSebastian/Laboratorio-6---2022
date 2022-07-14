@@ -137,60 +137,72 @@ Corriente
 El Voltaje y corriente de RL = 470 Ω 
 
 Voltaje
+
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/27.png)
 ###### _FIGURA 5_
 
 Corriente
+
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/28.png)
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 680 Ω
 
 Voltaje
+
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/30.png)
 ###### _FIGURA 5_
 
 Corriente
+
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/31.png)
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 820 Ω
 
 Voltaje
+
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/33.png)
 ###### _FIGURA 5_
 
 Corriente
+
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/34.png)
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 1 kΩ 
 
 Voltaje
+
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/36.png)
 ###### _FIGURA 5_
 
 Corriente
+
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/37.png)
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 1.5 kΩ 
 
 Voltaje
+
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/39.png)
 ###### _FIGURA 5_
 
-Corriente
+Corriente}
+
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/40.png)
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 1.8 kΩ 
 
 Voltaje
+
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/42.png)
 ###### _FIGURA 5_
 
 Corriente
+
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/43.png)
 ###### _FIGURA 5_
 
@@ -207,24 +219,26 @@ Corriente
 El Voltaje y corriente de RL = 3.9 kΩ
 
 Voltaje
+
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/48.png)
 ###### _FIGURA 5_
 
 Corriente
+
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/49.png)
 ###### _FIGURA 5_
 
 El Voltaje y corriente de RL = 4.7 kΩ 
 
 Voltaje
+
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/51.png)
 ###### _FIGURA 5_
 
 Corriente
+
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/52.png)
 ###### _FIGURA 5_
-
-
 
 
 
