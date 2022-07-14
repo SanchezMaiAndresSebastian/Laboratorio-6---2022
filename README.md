@@ -27,26 +27,23 @@ Andrés Sánchez
 El teorema de transferencia de potencia máxima no es tanto un medio de análisis como una ayuda para el diseño del sistema. En pocas palabras, la cantidad máxima de energía se disipará por una resistencia de carga cuando esa resistencia de carga sea igual a la resistencia de Thevenin / Norton de la red que suministra la energía. Si la resistencia de carga es menor o mayor que la resistencia Thevenin / Norton de la red de origen, su potencia disipada será menor que la máxima.
 
 Esto es esencialmente lo que se pretende en el diseño del transmisor de radio, donde la «impedancia» de la antena o la línea de transmisión se corresponde con la potencia final amplificador «impedancia» para obtener la máxima potencia de radiofrecuencia. La impedancia, la oposición general a la corriente CA y CC, es muy similar a la resistencia y debe ser igual entre la fuente y la carga para que se transfiera la mayor cantidad de energía a la carga. Una impedancia de carga demasiado alta dará como resultado una salida de baja potencia. Una impedancia de carga demasiado baja no solo dará como resultado una salida de baja potencia, sino que posiblemente se sobrecalentará el amplificador debido a la potencia disipada en su impedancia interna (Thevenin o Norton).
-![](https://github.com/SanchezMaiAndresSebastian/Tarea-4-/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/1.png)
 
 ###### _FIGURA 1_
-![](https://github.com/SanchezMaiAndresSebastian/Tarea-4-/blob/main/Fotos/4.png)
 
 
-###### _FIGURA 2_
 
  
 ### 3.	EXPLICACIÓN DEL PROCEDIMIENTO
 
 - Diagramas eléctricos
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/1.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/2.png)
 
 ###### _FIGURA 3_
 
 - Diagrama de bloques
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/2.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3png)
 
 ###### _FIGURA 4_
 
@@ -71,45 +68,13 @@ Esto es esencialmente lo que se pretende en el diseño del transmisor de radio, 
 > (Herramientas utilizadas en simulación) 
 > Simulador thinkercad
 
+#### 3.1. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 4.1. Anote los resultados medidos.
 #### SIMULACIÓN
 Se tiene que preparar los componentes antes de la construcción del circuito
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
-
-
 ###### _FIGURA 5_
 
-Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 4.2.
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/3.png)
-
-###### _FIGURA 6_
-
-Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 4.1.
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/4.png)
-
-###### _FIGURA 7_
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/5.png)
-
-###### _FIGURA 8_
-
-Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 4.1.
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/6.png)
-
-###### _FIGURA 9_
-
-Implemente el circuito equivalente de Thévenin agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 4.2.
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/7.png)
-
-###### _FIGURA 10_
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/8.png)
-
-###### _FIGURA 11_
 
 #### MEDICIÓN
 
@@ -118,60 +83,35 @@ Se tiene que preparar los componentes antes de la construcción del circuito
 ![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/8.png)
 ###### _FIGURA 12_
 
-Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 4.2.
+#### 3.2. Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 4.1.
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/9.png)
-
-###### _FIGURA 13_
-
-Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 4.1.
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/10.png)
-
-###### _FIGURA 14_
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/11.png)
-
-###### _FIGURA 7_
-
-Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 4.1.
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/12.png)
-
-###### _FIGURA 15_
-
-Implemente el circuito equivalente de Thévenin agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 4.2.
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/13.png)
-
-###### _FIGURA 16_
+#### 3.3. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados en la tabla 4.1. Anote los resultados medidos.
 
 
-
-Nota: No se tiene una fuente de 20 V y de 12 V, se reemplazó la fuente de 20 V con una fuente de 9 V y la fuente de voltaje de 12 V se reemplazó con una fuente de 5 V
-
-
-#### Cálculos:
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/16.png)
-
-###### _FIGURA 17_
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/18.png)
-
-###### _FIGURA 18_
  
 ### 4.	RESPUESTAS A INTERROGANTES
 
 #### Tabla 4.1
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/14.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/57.png)
 
-#### Tabla 4.2
+#### 4.1. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/15.png)
+#### 4.2. ¿Cuál fue la potencia máxima en RL?
+0.017 Watts
+#### 4.3. ¿Para qué valor de RL se obtiene la MTP?
+1000 Ω
+#### 4.4. Grafique la curva Potencia vs RL y comente.
 
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/58.png)
 
+#### Calcular errores de las mediciones y comentar los resultados.
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/59.png)
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/60.png)
+
+En esto se concluye que al hacer el experimento con una fuente de volatje de 9 V eso influye mucho en el porcentaje de rror que se tiene. Al comparar lo teroico con los resultados del simulador se encunetra que nos se tiene una gran errror de medición. 
 
 ### 5. VIDEOS
 https://www.youtube.com/watch?v=YUdDsEPRHFo
