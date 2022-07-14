@@ -1,6 +1,6 @@
 # Laboratorio-6
 
-### Nombre de los integrantes: 
+## Nombre de los integrantes: 
 Bryan Almachi
 
 Norma Calvopiña
@@ -12,14 +12,14 @@ Andrés Sánchez
 
 **Principales**
 
- - Experimentar la Máxima transferencia de energía
- - Construir un circuito.
+ - Experimentar on la Máxima transferencia de energía
 
 **Específicos**
 
 - Distinguirla potencia consumida de un circuito y la potencia máxima del circuito
-- Diferenciar las partes de una herramienta eléctrica
 - Apreciar la diferencia de voltaje y corriente cuando se cambia la resistencia RL
+- Diferenciar las partes de un vatimetro.
+
 
 ### 2.	MARCO TEÓRICO
 
