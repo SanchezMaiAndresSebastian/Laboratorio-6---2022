@@ -96,7 +96,7 @@ Se tiene que preparar los componentes antes de la construcción del circuito
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/57.png)
 
 #### 4.1. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
-
+Si, porque en las tablas se ve una potencia máxima que del circuito dentro de cualquier teroia sea de thevenin o de norton. con el cual en las graficas que se presencia existe un pico en el cual, es la derivada de la función.
 #### 4.2. ¿Cuál fue la potencia máxima en RL?
 0.017 Watts
 #### 4.3. ¿Para qué valor de RL se obtiene la MTP?
