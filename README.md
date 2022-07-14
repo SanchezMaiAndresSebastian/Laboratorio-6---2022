@@ -123,7 +123,7 @@ https://www.youtube.com/watch?v=YUdDsEPRHFo
  - Al momento de construir el circuito se debe tener en cuenta que tiene que conectarse correctamente los cables en el positivo y negativo de todos los instrumentos eléctricos los cuales si no se hacen correctamente pueden sufrir una disminución de la vida útil.
  - El potenciómetro tiene tres terminales el cual son un que es de la señal de entrada, la otra es la señal de salida y la otra es terminal tierra, pero con una disposición de unión entre el terminal de señal de salida con la señal de salida de tierra, el potenciómetro se puede utilizarse como un componente de resistencia variable más conocido como reóstato.
  - Cuando en un resistor se encuentra aplicado con el multímetro la medición de su corriente cambia el voltaje de los demás resistores que se tienen midiendo con las demás herramientas.
- _ Siempre tener la guía del sentido para poder resolver las mallas y cambia totalmente si se apaga una fuente o no, debido a que eso genera una corriente que pasa por los componentes.
+ - Siempre tener la guía del sentido para poder resolver las mallas y cambia totalmente si se apaga una fuente o no, debido a que eso genera una corriente que pasa por los componentes.
  
 
 ### 7.	BIBLIOGRAFÍA
