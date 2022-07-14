@@ -1,4 +1,4 @@
-# Laboratorio-5
+# Laboratorio-6
 
 ### Nombre de los integrantes: 
 Bryan Almachi
@@ -19,13 +19,13 @@ Andrés Sánchez
 
 - Distinguirla potencia consumida de un circuito y la potencia máxima del circuito
 - Diferenciar las partes de una herramienta eléctrica
-- Apreciar la diferencia de voltaje y corriente cuando se cambia la resistecnia RL
+- Apreciar la diferencia de voltaje y corriente cuando se cambia la resistencia RL
 
 ### 2.	MARCO TEÓRICO
 
-El teorema de transferencia de potencia máxima no es tanto un medio de análisis como una ayuda para el diseño del sistema. En pocas palabras, la cantidad máxima de energía se disipará por una resistencia de carga cuando esa resistencia de carga sea igual a la resistencia de Thevenin / Norton de la red que suministra la energía. Si la resistencia de carga es menor o mayor que la resistencia Thevenin / Norton de la red de origen, su potencia disipada será menor que la máxima.
+El teorema de transferencia de potencia máxima no es tanto un medio de análisis como una ayuda para el diseño del sistema. En pocas palabras, la cantidad máxima de energía se disipará por una resistencia de carga cuando esa resistencia de carga sea igual a la resistencia de Thévenin / Norton de la red que suministra la energía. Si la resistencia de carga es menor o mayor que la resistencia Thévenin / Norton de la red de origen, su potencia disipada será menor que la máxima.
 
-Esto es esencialmente lo que se pretende en el diseño del transmisor de radio, donde la «impedancia» de la antena o la línea de transmisión se corresponde con la potencia final amplificador «impedancia» para obtener la máxima potencia de radiofrecuencia. La impedancia, la oposición general a la corriente CA y CC, es muy similar a la resistencia y debe ser igual entre la fuente y la carga para que se transfiera la mayor cantidad de energía a la carga. Una impedancia de carga demasiado alta dará como resultado una salida de baja potencia. Una impedancia de carga demasiado baja no solo dará como resultado una salida de baja potencia, sino que posiblemente se sobrecalentará el amplificador debido a la potencia disipada en su impedancia interna (Thevenin o Norton).
+Esto es esencialmente lo que se pretende en el diseño del transmisor de radio, donde la «impedancia» de la antena o la línea de transmisión se corresponde con la potencia final amplificador «impedancia» para obtener la máxima potencia de radiofrecuencia. La impedancia, la oposición general a la corriente CA y CC, es muy similar a la resistencia y debe ser igual entre la fuente y la carga para que se transfiera la mayor cantidad de energía a la carga. Una impedancia de carga demasiado alta dará como resultado una salida de baja potencia. Una impedancia de carga demasiado baja no solo dará como resultado una salida de baja potencia, sino que posiblemente se sobrecalentará el amplificador debido a la potencia disipada en su impedancia interna (Thévenin o Norton).
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/1.png)
 
 ###### _FIGURA 1_
@@ -355,9 +355,9 @@ Potencia consumida por RL = 4.7 kΩ
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/57.png)
 
 #### 4.1. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
-Si, porque en las tablas se ve una potencia máxima que del circuito dentro de cualquier teroia sea de thevenin o de norton. con el cual en las graficas que se presencia existe un pico en el cual, es la derivada de la función.
+Si, porque en las tablas se ve una potencia máxima que del circuito dentro de cualquier teoría sea de Thévenin o de Norton. con el cual en las gráficas que se presencia existe un pico en el cual, es la derivada de la función.
 #### 4.2. ¿Cuál fue la potencia máxima en RL?
-0.017 Watts
+0.017 watts
 #### 4.3. ¿Para qué valor de RL se obtiene la MTP?
 1000 Ω
 #### 4.4. Grafique la curva Potencia vs RL y comente.
@@ -365,7 +365,7 @@ Si, porque en las tablas se ve una potencia máxima que del circuito dentro de c
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/58.png)
 ###### _FIGURA 58_
 
-Se encunetra una transferencia máxima de potencia debido a que estamos en un sistema cerrado, es decir que esto no es un espacio abierto en el cual se pueda dar más enrgia, y con ello se dras más energia, por ende esto tiene un pico en donde el voltaje y la corriente están en un punto optimo.
+Se encuentran una transferencia máxima de potencia debido a que estamos en un sistema cerrado, es decir que esto no es un espacio abierto en el cual se pueda dar más corriente y con ello se dará más potencia, por ende, esto tiene un pico en donde el voltaje y la corriente están en un punto óptimo.
 
 #### Calcular errores de las mediciones y comentar los resultados.
 
@@ -375,7 +375,7 @@ Se encunetra una transferencia máxima de potencia debido a que estamos en un si
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/60.png)
 ###### _FIGURA 60_
 
-Al hacer el experimento con una fuente de volatje de 9 V eso influye mucho en el porcentaje de rror que se tiene. Al comparar lo teroico con los resultados del simulador se encunetra que nos se tiene una gran errror de medición. 
+Al hacer el experimento con una fuente de voltaje de 9 V eso influye mucho en el porcentaje de error que se tiene. Al comparar lo teórico con los resultados del simulador se Encuentra que no se tiene un gran error de medición. 
 
 ### 5. VIDEOS
 https://www.youtube.com/watch?v=YUdDsEPRHFo
@@ -383,7 +383,7 @@ https://www.youtube.com/watch?v=YUdDsEPRHFo
 ### 6.	CONCLUSIONES
 
  - Al momento de construir el circuito se debe tener en cuenta que tiene que conectarse correctamente los cables en el positivo y negativo de todos los instrumentos eléctricos los cuales si no se hacen correctamente pueden sufrir una disminución de la vida útil.
- - El potenciómetro tiene tres terminales el cual son un que es de la señal de entrada, la otra es la señal de salida y la otra es terminal tierra, pero con una disposición de unión entre el terminal de señal de salida con la señal de salida de tierra, el potenciómetro se puede utilizarse como un componente de resistencia variable más conocido como reóstato.
+ - El vatímetro se usa con cuatro pines el cual Dos de ellas son fijas y se conectan en serie a un circuito eléctrico, se denominan bobinas amperimétricas. Además, tiene otra móvil, también llamada «bobina voltimétrica, la cual se instala en paralelo con el circuito.
  - Cuando en un resistor se encuentra aplicado con el multímetro la medición de su corriente cambia el voltaje de los demás resistores que se tienen midiendo con las demás herramientas.
  - Siempre tener la guía del sentido para poder resolver las mallas y cambia totalmente si se apaga una fuente o no, debido a que eso genera una corriente que pasa por los componentes.
  
