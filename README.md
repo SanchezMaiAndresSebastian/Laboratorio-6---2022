@@ -7,18 +7,18 @@ Norma Calvopiña
 
 Andrés Sánchez
 
-## Máxima transferencia de energía
+## Máxima transferencia de Potencia
 ### 1.	OBJETIVOS
 
 **Principales**
 
- - Experimentar on la Máxima transferencia de energía
+ - Experimentar con la Máxima transferencia de Potencia.
 
 **Específicos**
 
-- Distinguirla potencia consumida de un circuito y la potencia máxima del circuito
-- Apreciar la diferencia de voltaje y corriente cuando se cambia la resistencia RL
-- Diferenciar las partes de un vatimetro.
+- Distinguirla potencia consumida de un circuito y la potencia máxima del circuito.
+- Apreciar la diferencia de voltaje y corriente cuando se cambia la resistencia RL.
+- Diferenciar las partes de un vatímetro.
 
 
 ### 2.	MARCO TEÓRICO
@@ -396,3 +396,4 @@ Floyd, T. (2007). Principios de circuitos eléctricos. México: Pearson Educacio
 R. (2001). Física II. México: Pearson Educacion.
 
 A. (2021, 5 agosto). El. La fisica y quimica. Recuperado 14 de julio de 2022, de https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
+
